@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'volt', '0.8.26'
 
-
+gem "sass", :require => 'sass'
 # The following gem's are optional for themeing
 
 # Twitter bootstrap

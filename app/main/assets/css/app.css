@@ -1,0 +1,1 @@
+textarea {  height: 140px;  width: 100%;}.todo-table {  width: auto;}.todo-table tr.selected td {  background-color: #428bca;  color: #FFFFFF;}.todo-table tr.selected td button {  color: #000000;}.todo-table tr td {  padding: 5px;  border-top: 1px solid #EEEEEE;}.todo-table tr td.complete {  text-decoration: line-through;  color: #CCCCCC;}
